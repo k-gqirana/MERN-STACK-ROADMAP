@@ -13,6 +13,35 @@ You need to learn the core of the web, I suggest the following courses as a foun
 - [CSS](https://www.youtube.com/watch?v=n4R2E7O-Ngo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=2)
 - [JavaScript](https://www.youtube.com/watch?v=n4R2E7O-Ngo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=2)
 
+## Web Development Fundamentls 
+- [Understand how the internet works](https://www.youtube.com/watch?v=zN8YNNHcaZc&pp=ygUaaG93IGRvZXMgdGhlIGludGVybmV0IHdvcms%3D). 
+- Understand the core of websites and how [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp) and [JavaScript](https://www.w3schools.com/js/default.asp) contribute 
+- Code your first site(s) in HTML, CSS and JavaScript 
+- [Understand git, Github and Version Control](https://www.youtube.com/watch?v=tRZGeaHPoaw) 
+
+## Front-End Web Development 
+### HTML 5 
+#### Basics: 
+- Anatomy of HTML syntax to structure your websites.
+- HTML boilerplate and HTML doctypes. 
+- How to structure text in HTML. 
+- How to structure HTML lists to create unordered and ordered lists. 
+- How to insert images using HTML. 
+- How to create hyperlinks using anchor tags.
+- Understand how to use HTML tables for content.
+- HTML forms. 
+- HTML Divs and how to separate content for CSS styling. 
+
+#### Best Practices: 
+- Semantic HTML
+- SEO Basics
+- SEO Practices:
+ 	- SEO friendly URLs
+	- Meta Tags 
+	- Heading Structure 
+	- Image Optimization 
+	- Structured Data
+
 
 
 		
