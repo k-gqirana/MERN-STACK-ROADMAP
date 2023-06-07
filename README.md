@@ -42,7 +42,50 @@ You need to learn the core of the web, I suggest the following courses as a foun
 	- Image Optimization 
 	- Structured Data
 
-
+### CSS 3 
+#### Basics: 
+- Understand what are cascading style sheets and how you can use it to style your website.
+- Learn about how to use inline, internal and external CSS.
+- Learn the anatomy of CSS syntax and structure. 
+- Website design fundamentals and typography.	
+- How to use CSS selectors and properties. 
+	- How combine CSS selectors and understand selector priority.
+- Box Model
+- CSS display and how to implement layout.
+- Learn about CSS sizing methods.
+	- Pixels(px) 
+	- Percentages(%)
+	- Viewport Height (vh) and Viewport Width (vw) 
+	- Viewport-relative Lengths (vmin and vmax)
+	- Auto
+- Learn CSS specificity and implementing style hierarchy.
+- Class vs. Ids and how to target each. 
+- CSS positioning: 
+	- Static (default)
+	- Relative
+	- Absolute
+	- Fixed 
+	- Sticky
+- Font styling using CSS and web safe fonts.
+- Media Queries
+- FlexBox
+- Grid
+- Animations 
+- Transitions 
+- How to use CSS float and clear. 
+- Pseudo Elements 
+	- ::before
+	- ::ater
+	- ::first-line
+	- ::first-letter
+	- ::selection
+- Pseudo Classes
+	- :hover
+	- :active
+	- :focus
+	- :first-child
+	- :nth-child()
+	- :not()
 
 		
 	 
