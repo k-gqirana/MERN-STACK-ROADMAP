@@ -11,7 +11,7 @@ I recommend taking the [ChatGPT Prompt Engineering](https://www.deeplearning.ai/
 You need to learn the core of the web, I suggest the following courses as a foundation: 
 - [HTML](https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm)
 - [CSS](https://www.youtube.com/watch?v=n4R2E7O-Ngo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=2)
-- [JavaScript](https://www.youtube.com/watch?v=n4R2E7O-Ngo&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=2)
+- [JavaScript](https://www.youtube.com/watch?v=EfAl9bwzVZk&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm&index=3)
 
 ## Web Development Fundamentls 
 - [Understand how the internet works](https://www.youtube.com/watch?v=zN8YNNHcaZc&pp=ygUaaG93IGRvZXMgdGhlIGludGVybmV0IHdvcms%3D). 
